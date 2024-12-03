@@ -24,13 +24,13 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Featured Projects**
 
 ### 🔹 **AdsKSA**
-A comprehensive platform that helps users locate hospitals in Saudi Arabia, read reviews, and book appointments effortlessly.  
+A comprehensive platform designed to provide users with a directory of hospitals across Saudi Arabia. The app offers detailed information, including locations, reviews, and hospital-specific details, while enabling seamless appointment booking with tailored specifications.
 🔗 **Demo Available on Request**
 
 ---
 
 ### 🔹 **Ali Bin Ali Hospital App**
-An advanced healthcare app designed for seamless hospital appointment bookings.  
+A robust mobile app developed for Android and iOS platforms, facilitating efficient hospital appointment booking and management. The app provides an intuitive user experience for healthcare accessibility.  
 📱 **Download Now:**  
 <a href="https://play.google.com/store/apps/details?id=com.we_are_devs.abah.abah" target="_blank">
    <img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-blue?style=for-the-badge&logo=google-play" alt="Google Play">
@@ -47,22 +47,23 @@ A versatile Islamic app offering Quranic resources, tafsir downloads, prayer tim
 ---
 
 ### 🔹 **Abu Auf**
-A dynamic marketplace app for browsing products, tracking orders, and making secure payments.
+A dynamic marketplace application for purchasing Abu Auf products, tracking orders, and reviewing items. Integrated with secure payment gateways, it ensures smooth transactions and an exceptional customer experience.
+
 
 ---
 
 ### 🔹 **Your Market**
-An ad-listing app enabling users to post multimedia ads, filter products by category, and discover the best deals.
+An innovative ad-listing platform allowing users to explore products across categories, filter by price, location, and subcategories, and post new ads with rich media. Designed to empower users with flexible search and listing options.
 
 ---
 
 ### 🔹 **Hamz**
-A feature-packed e-commerce app combining shopping, ad monetization, and discount coupons.
+A feature-rich e-commerce app combining shopping, discount coupons, and monetized ad views. Includes multimedia ads, filtering capabilities, and a user-friendly interface to enhance engagement.
 
 ---
 
 ### 🔹 **Sharack**
-A real estate app streamlining property sales, purchases, and listings with user-friendly features.
+A real estate application enabling users to browse and post properties for sale or purchase. Offers a streamlined experience for managing property listings and transactions.
 
 ---
 
