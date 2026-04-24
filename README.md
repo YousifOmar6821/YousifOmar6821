@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousif+Omar;Flutter+Developer;Mobile+%26+Web+App+Builder;2%2B+Years+of+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousif+Omar;Flutter+Developer;Mobile+%26+Web+App+Builder;3%2B+Years+of+Experience" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter Developer** from Egypt with **2+ years** of experience building cross-platform mobile and web applications. I specialize in crafting clean, responsive, and production-ready apps — from consumer marketplaces to healthcare platforms.
+I'm a **Flutter Developer** from Egypt with **3+ years** of experience building cross-platform mobile and web applications. I specialize in crafting clean, responsive, and production-ready apps — from consumer marketplaces to healthcare platforms.
 
 - 📍 Based in Egypt — open to remote opportunities
 - 🚀 **7+ published apps** on Google Play & App Store
